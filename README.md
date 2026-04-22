@@ -1,4 +1,4 @@
-# LCA-Python-Excercises
+# LCA-Python-Exercises
 
 **Trainee:** Angela Beukes  
 **Programme:** YouthCode Off-Site – Cohort 2, 2026  
